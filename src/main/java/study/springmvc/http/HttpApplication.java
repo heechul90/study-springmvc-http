@@ -1,13 +1,13 @@
-package study.springmvc.mvc;
+package study.springmvc.http;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MvcApplication {
+public class HttpApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MvcApplication.class, args);
+		SpringApplication.run(HttpApplication.class, args);
 	}
 
 }
