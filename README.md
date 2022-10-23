@@ -30,4 +30,6 @@
    - 요청 매핑 핸들러 어뎁터 구조
    - 정리
 
-[다음으로](https://github.com/heechul90/study-springmvc-item-service)
+[[이전으로]](https://github.com/heechul90/study-springmvc-servlet) [[다음으로]](https://github.com/heechul90/study-springmvc-item-service)
+
+[[복습하기/적용하기]](https://github.com/heechul90/project-hellcoding)
